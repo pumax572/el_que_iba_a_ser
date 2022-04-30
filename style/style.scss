@@ -1,0 +1,9 @@
+
+$primary: #0c375d;
+$sucess: #54be84;
+
+$theme-colors: (
+  "primary": $primary,
+  "success": $success
+);
+@import "../node_modules/bootstrap/scss/bootstrap";
